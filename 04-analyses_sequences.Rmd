@@ -4,5 +4,6 @@ Some _significant_ applications are demonstrated in this chapter.
 
 ## Partie 1
 XXX
+
 ## Partie 2
 XXX
