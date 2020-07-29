@@ -1,5 +1,5 @@
 --- 
-title: "BIO2002 | BioInfo"
+title: "BIO-2002 | Bioinformatique"
 author: "Christophe Tav, Julie Turgeon"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
