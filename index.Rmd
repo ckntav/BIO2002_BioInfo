@@ -1,6 +1,6 @@
 --- 
 title: "BIO-2002 | Bioinformatique"
-author: "Christophe Tav, Julie Turgeon"
+author: "XXX"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -17,12 +17,12 @@ description: "This is a minimal example of using the bookdown package to write a
 XXX
 
 `r if (knitr:::is_html_output()) '
-# Initiation à Benchling {-}
+# Introduction à Benchling {-}
 '`
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRONlzNNa7-xKK148930KdestGFdAdnW8mK9aMx9jmtdjjEFFi7hgrGNtroDveP6w/embed?start=false&loop=false&delayms=2000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 `r if (knitr:::is_html_output()) '
-# Prérequis {-}
+# XXX {-}
 '`
 XXX
 
@@ -46,8 +46,3 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
-
-`r if (knitr:::is_html_output()) '
-# Installation des logiciels {-}
-'`
-XXX
