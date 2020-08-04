@@ -14,7 +14,7 @@ description: "This is a minimal example of using the bookdown package to write a
 `r if (knitr:::is_html_output()) '
 # Bienvenue {-}
 '`
-XXX
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRONlzNNa7-xKK148930KdestGFdAdnW8mK9aMx9jmtdjjEFFi7hgrGNtroDveP6w/embed?start=false&loop=false&delayms=2000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 `r if (knitr:::is_html_output()) '
 # Prérequis {-}
