@@ -19,7 +19,7 @@ XXX
 `r if (knitr:::is_html_output()) '
 # Introduction à Benchling {-}
 '`
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRONlzNNa7-xKK148930KdestGFdAdnW8mK9aMx9jmtdjjEFFi7hgrGNtroDveP6w/embed?start=false&loop=false&delayms=2000" frameborder="0" width="700" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTv1D_QDTvZbROVZpkNiZx2Tf9ORSo8gfovNMrlB7Av8I_nTv--MczSm00QW4vtJQ/embed?start=false&loop=false&delayms=2000" frameborder="0" width="600" height="366" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 `r if (knitr:::is_html_output()) '
 # XXX {-}
